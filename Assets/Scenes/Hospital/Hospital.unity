@@ -2062,7 +2062,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3092429402660180642, guid: 32167ae204a279138a903dbea46be490, type: 3}
       propertyPath: twistTopicName
-      value: gopher_presence/cmd_vel
+      value: /gopher_presence/base_controller/cmd_vel
       objectReference: {fileID: 0}
     - target: {fileID: 4167990685362185886, guid: 32167ae204a279138a903dbea46be490, type: 3}
       propertyPath: m_Name
@@ -3141,7 +3141,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8412888653030167162, guid: e95130fd25fa3cf4a937fe7490c1b5dc, type: 3}
       propertyPath: m_RosIPAddress
-      value: 192.168.1.15
+      value: 127.0.0.1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e95130fd25fa3cf4a937fe7490c1b5dc, type: 3}
